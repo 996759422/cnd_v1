@@ -1,0 +1,11 @@
+// 修改主题色
+// $--color-primary: rgb(114, 199, 245);
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+$color--a-primary:'blue';
+@import "~element-ui/packages/theme-chalk/src/index";
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fafbfe;
+}
